@@ -2,6 +2,7 @@
 
 ## Overview
 The Data Science AI Tool Benchmark (DSAITB) is designed to evaluate AI tools' capabilities across the key stages of a data science workflow. This benchmark aims to provide a standardized method for assessing and comparing AI tools in the context of data science tasks.
+The goal of this benchmarking project is to mirror the robustness of generall LLM benchmarking paradigms like https://github.com/stanford-crfm/helm
 
 ## Benchmark Structure
 The DSAITB is divided into six main categories, each corresponding to a crucial stage in the data science workflow. Each category contains multiple tasks that an AI tool might be expected to perform.
